@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>cn.newphy</groupId>
-		<artifactId>scloud-test</artifactId>
+		<artifactId>scloud</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>scloud-feign</artifactId>
